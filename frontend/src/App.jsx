@@ -4,6 +4,11 @@ import Navbar from './components/Navbar/Navbar';
 import Home from './pages/Home';
 import Footer from './components/Footer/Footer';
 import Offers from './components/Offers/Offers';
+import Computer from './components/Computer/Computer';
+import Contactus from './pages/Contactus';
+import HeadPhones from './components/HeadPhones/HeadPhones';
+import Login from './pages/Login';
+import Registration from './pages/Registration';
 const App = () => {
   return (
     <>
@@ -13,6 +18,12 @@ const App = () => {
         <Route path='/' element={<Home/>}/>
         <Route path='/offers' element={<Offers/>}/>
         <Route path='/footer' element={<Footer/>}/>
+        <Route path='/computers' element={<Computer/>}/>
+        <Route path='/contactus' element={<Contactus/>}/>
+        <Route path='/headphones' element={<HeadPhones/>}/>
+        <Route path='/login' element={<Login/>}/>
+        <Route path='/registration' element={<Registration/>}/>
+
 
       </Routes>
     </Router>

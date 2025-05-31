@@ -11,7 +11,7 @@ const Computer = () => {
       <a href="#products" class="bg-blue-600 text-white px-6 py-3 rounded hover:bg-blue-700">Shop Now</a>
     </div>
     <div class="md:w-1/2">
-      <img src="https://via.placeholder.com/400x300" alt="Featured Computer" class="rounded shadow-lg" />
+      <img src="https://m.media-amazon.com/images/W/MEDIAX_1215821-T2/images/I/41oDR5+IEOL._SX300_SY300_.jpg" alt="Featured Computer" class="rounded shadow-lg" />
     </div>
   </div>
 </section>
@@ -20,7 +20,7 @@ const Computer = () => {
   <h2 class="text-2xl font-bold mb-6">Best Sellers</h2>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
     <div class="bg-white p-4 rounded shadow">
-      <img src="https://via.placeholder.com/200x150" alt="Laptop" class="mb-4 rounded" />
+      <img src="https://m.media-amazon.com/images/W/MEDIAX_1215821-T2/images/I/418ucDtFEQL._SX300_SY300_QL70_FMwebp_.jpg" alt="Laptop" class="mb-4 rounded" />
       <h3 class="font-semibold mb-2">UltraBook Pro 15"</h3>
       <ul class="text-sm text-gray-600 mb-2">
         <li>Intel i7, 16GB RAM, 512GB SSD</li>
@@ -30,7 +30,7 @@ const Computer = () => {
       <button class="bg-blue-600 text-white px-4 py-2 rounded w-full hover:bg-blue-700">Add to Cart</button>
     </div>
     <div class="bg-white p-4 rounded shadow">
-      <img src="https://via.placeholder.com/200x150" alt="Gaming PC" class="mb-4 rounded" />
+      <img src="https://m.media-amazon.com/images/W/MEDIAX_1215821-T2/images/I/41jtYYwLwyL._SY300_SX300_QL70_FMwebp_.jpg" alt="Gaming PC" class="mb-4 rounded" />
       <h3 class="font-semibold mb-2">Gamer Xtreme Desktop</h3>
       <ul class="text-sm text-gray-600 mb-2">
         <li>AMD Ryzen 7, 32GB RAM, 1TB SSD</li>
@@ -40,7 +40,7 @@ const Computer = () => {
       <button class="bg-blue-600 text-white px-4 py-2 rounded w-full hover:bg-blue-700">Add to Cart</button>
     </div>
     <div class="bg-white p-4 rounded shadow">
-      <img src="https://via.placeholder.com/200x150" alt="Office PC" class="mb-4 rounded" />
+      <img src="https://m.media-amazon.com/images/W/MEDIAX_1215821-T2/images/I/41TC1v6AWTL._SX300_SY300_QL70_FMwebp_.jpg" alt="Office PC" class="mb-4 rounded" />
       <h3 class="font-semibold mb-2">OfficeMate Mini</h3>
       <ul class="text-sm text-gray-600 mb-2">
         <li>Intel i5, 8GB RAM, 256GB SSD</li>

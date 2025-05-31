@@ -11,7 +11,7 @@ const HeadPhones = () => {
       <a href="#products" className="bg-white text-blue-700 font-bold px-6 py-3 rounded shadow hover:bg-gray-100 transition">Shop Headphones</a>
     </div>
     <div className="md:w-1/2 flex justify-center">
-      <img src="https://via.placeholder.com/400x350?text=Headphones" alt="Headphones" className="rounded-lg shadow-lg" />
+      <img src="https://m.media-amazon.com/images/W/MEDIAX_1215821-T2/images/I/41jcCpExIzL._SX300_SY300_QL70_FMwebp_.jpg" alt="Headphones" className="rounded-lg shadow-lg" />
     </div>
   </div>
 </section>
@@ -20,7 +20,7 @@ const HeadPhones = () => {
   <h2 className="text-2xl font-bold mb-8 text-center">Best-Selling Headphones</h2>
   <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
     <div className="bg-white rounded-lg shadow p-6 flex flex-col items-center">
-      <img src="https://via.placeholder.com/200x200?text=Wireless+Headphone" alt="Wireless Headphone" className="mb-4 rounded" />
+      <img src="https://m.media-amazon.com/images/W/MEDIAX_1215821-T2/images/I/31VD0qReIYL._SX300_SY300_QL70_FMwebp_.jpg" alt="Wireless Headphone" className="mb-4 rounded" />
       <h3 className="font-semibold text-lg mb-2">Wireless Noise Cancelling</h3>
       <ul className="text-gray-600 text-sm mb-2">
         <li>Active Noise Cancellation</li>
@@ -31,7 +31,7 @@ const HeadPhones = () => {
       <button className="bg-blue-700 text-white px-4 py-2 rounded w-full hover:bg-blue-800 transition">Add to Cart</button>
     </div>
     <div className="bg-white rounded-lg shadow p-6 flex flex-col items-center">
-      <img src="https://via.placeholder.com/200x200?text=Gaming+Headset" alt="Gaming Headset" className="mb-4 rounded" />
+      <img src="https://m.media-amazon.com/images/W/MEDIAX_1215821-T2/images/I/31QB73-5IEL._SX300_SY300_QL70_FMwebp_.jpg" alt="Gaming Headset" className="mb-4 rounded" />
       <h3 className="font-semibold text-lg mb-2">Pro Gaming Headset</h3>
       <ul className="text-gray-600 text-sm mb-2">
         <li>7.1 Surround Sound</li>
@@ -42,7 +42,7 @@ const HeadPhones = () => {
       <button className="bg-blue-700 text-white px-4 py-2 rounded w-full hover:bg-blue-800 transition">Add to Cart</button>
     </div>
     <div className="bg-white rounded-lg shadow p-6 flex flex-col items-center">
-      <img src="https://via.placeholder.com/200x200?text=Studio+Headphone" alt="Studio Headphone" className="mb-4 rounded" />
+      <img src="https://m.media-amazon.com/images/W/MEDIAX_1215821-T2/images/I/41aqD2S+SgL._SY300_SX300_.jpg" alt="Studio Headphone" className="mb-4 rounded" />
       <h3 className="font-semibold text-lg mb-2">Studio Monitor Headphones</h3>
       <ul className="text-gray-600 text-sm mb-2">
         <li>Hi-Res Audio, Wired</li>
